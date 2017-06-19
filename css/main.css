@@ -57,7 +57,19 @@ footer{
   padding: 10px;
 }
 
+.boton-guardar{
+  margin-left: 300px;
+  border: 2px solid pink;
+}
+
+.boton-limpiar{
+  border: 2px solid pink;
+  margin-left: 5px;
+}
+
 
 
 /* Estilos comentarios */
+
+
 
